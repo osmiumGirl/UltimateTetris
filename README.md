@@ -1,7 +1,7 @@
 # UltimateTetris
 
 For MacOs
-Download folder,
-cd into directory
-from terminal run
-./main
+Download folder,<br />
+cd into directory<br />
+from terminal run<br />
+./main<br />
